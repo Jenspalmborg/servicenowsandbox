@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="new_file_123" label="new file 123" language="en" table="x_156743_new_table_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_file_123</element>
+            <help/>
+            <hint/>
+            <label>new file 123</label>
+            <language>en</language>
+            <name>x_156743_new_table_needit</name>
+            <plural>new file 123s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-30 14:08:00</sys_created_on>
+            <sys_id>5f26289f4f780300790f3879b110c70b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>new file 123</sys_name>
+            <sys_package display_value="new table" source="x_156743_new_table">67cc3f874f380300790f3879b110c7e9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="new table">67cc3f874f380300790f3879b110c7e9</sys_scope>
+            <sys_update_name>sys_documentation_x_156743_new_table_needit_new_file_123_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-30 14:08:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
